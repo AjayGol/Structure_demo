@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trinkerr</string>
+    <string moduleConfig="true"
+            name="CodePushDeploymentKey">2tYyrqu3SlXKaO3nfvor1H0jz-NduWJHGIHkt</string>
+</resources>

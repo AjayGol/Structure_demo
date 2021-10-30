@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>500383754555-82kbenb9c5arrmhbg2vqj6elnuaor41q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.500383754555-82kbenb9c5arrmhbg2vqj6elnuaor41q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>500383754555-7cqbuifu7glsp1gfudnpdpr2f382rvi9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAG4qu7fqiCUL0cZoIy5xA4aMg7IR9o4t0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>500383754555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trinkerr.ios</string>
+	<key>PROJECT_ID</key>
+	<string>trinkerr-reactnative</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trinkerr-reactnative.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:500383754555:ios:7441ba1d25b5dbf4072f1e</string>
+</dict>
+</plist>
